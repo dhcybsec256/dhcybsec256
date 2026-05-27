@@ -8,10 +8,14 @@ I'm passionate about defending systems and understanding how attacks
 work from the inside out. My work spans malware reverse engineering, 
 SOC operations, and network-based threat detection.
 
-## Tools & Skills
-Ghidra · Wireshark · Suricata · Process Monitor · Process Hacker
-Regshot · MITRE ATT&CK · jq · Static & Dynamic Malware Analysis
-Threat Hunting · Incident Response · Network Traffic Analysis
+## Security & Assessment Skills
+Threat Hunting · Alert Triage · Risk Assessment · Log Analysis · Malware Analysis · Incident Response · Security Hardening · Asset Classification · SIEM · Network Analysis · OSINT
+
+## Programming & Tools
+Wireshark · Splunk · Wazuh · Suricata · jq · Ghidra · Process Monitor · Process Hacker · Autopsy · AccessData FTK Imager · Bash/Shell scripting · Docker · Volatility · SQL · Python · Java
+
+## Operating Systems  
+Windows, MAC, Linux
 
 ## Projects
 - [Malware Analysis Project](https://github.com/dhcybsec256/Malware-Analysis-Project) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
