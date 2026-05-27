@@ -14,11 +14,11 @@ Regshot · MITRE ATT&CK · jq · Static & Dynamic Malware Analysis
 Threat Hunting · Incident Response · Network Traffic Analysis
 
 ## Projects
-- [Malware Analysis Project](link) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
-- [Attack Analysis & Threat Hunting Lab](link) — Threat Hunting, MITRE ATT&CK mapping, IDS Rule Writing and Incident Response
-- [SOC Environment Log Monitoring & Threat Detection](link) - Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
+- [Malware Analysis Project](https://github.com/dhcybsec256/Malware-Analysis-Project) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
+- [Attack Analysis & Threat Hunting Lab](https://github.com/dhcybsec256/Attack-Analysis-Threat-Hunting-Lab) — Threat Hunting, MITRE ATT&CK mapping, IDS Rule Writing and Incident Response
+- [SOC Environment Log Monitoring & Threat Detection](https://github.com/dhcybsec256/SOC-Environment-Log-Monitoring-Threat-Detection) - Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
 - [3D VR Game Development](https://github.com/Mossata/Unpaid-Overtime-SSSS) - (original privated by RMIT) Team Leadership, Project Planning, Game Design 
 - [2D Game Development](link) - 
 
 ## Connect
-[LinkedIn](link) · [Email](derekhuang007@gmail.com) · [TryHackMe](https://tryhackme.com/p/dhcybsec256) 
+[LinkedIn](www.linkedin.com/in/derek-huang-4395ba311) · [Email](derekhuang007@gmail.com) · [TryHackMe](https://tryhackme.com/p/dhcybsec256) 
