@@ -14,8 +14,11 @@ Regshot · MITRE ATT&CK · jq · Static & Dynamic Malware Analysis
 Threat Hunting · Incident Response · Network Traffic Analysis
 
 ## Projects
-- [Malware Analysis Lab](link) — Static & dynamic malware analysis using Ghidra, Wireshark, Procmon and more
-- [SOC Analyst Simulation](link) — Threat hunting, MITRE ATT&CK mapping, IDS rule writing and incident response
+- [Malware Analysis Project](link) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
+- [Attack Analysis & Threat Hunting Lab](link) — Threat Hunting, MITRE ATT&CK mapping, IDS Rule Writing and Incident Response
+- [SOC Environment Log Monitoring & Threat Detection](link) - Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
+- [3D VR Game Development](https://github.com/Mossata/Unpaid-Overtime-SSSS) - (original privated by RMIT) Team Leadership, Project Planning, Game Design 
+- [2D Game Development](link) - 
 
-## 📫 Connect
-[LinkedIn](your link) · [Email](derekhuang007@gmail.com)
+## Connect
+[LinkedIn](link) · [Email](derekhuang007@gmail.com) · [TryHackMe](https://tryhackme.com/p/dhcybsec256) 
