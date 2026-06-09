@@ -20,7 +20,7 @@ Windows, MAC, Linux
 ## Projects
 - [Malware Analysis Project](https://github.com/dhcybsec256/Malware-Analysis-Project) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
 - [Attack Analysis & Threat Hunting Lab](https://github.com/dhcybsec256/Attack-Analysis-Threat-Hunting-Lab) — Threat Hunting, MITRE ATT&CK mapping, IDS Rule Writing and Incident Response
-- [SOC Environment Log Monitoring & Threat Detection](https://github.com/dhcybsec256/SOC-Environment-Log-Monitoring-Threat-Detection) - Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
+- [SOC Environment Log Monitoring & Threat Detection](https://github.com/dhcybsec256/SOC-Environment-Log-Monitoring-Threat-Detection) - (THM) Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
 - [3D VR Game Development](https://github.com/Mossata/Unpaid-Overtime-SSSS) - (original privated by RMIT) Team Leadership, Project Planning, Game Design 
 - [2D Game Development](link) - 
 
