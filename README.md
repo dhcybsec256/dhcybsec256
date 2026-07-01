@@ -1,24 +1,9 @@
 # Hi, I'm Derek Huang 
 
-Bachelor of Cybersecurity student at RMIT University with a focus on 
-blue team operations, malware analysis, and threat detection.
-
-## About Me
-I'm passionate about defending systems and understanding how attacks 
-work from the inside out. My work spans malware reverse engineering, 
-SOC operations, and network-based threat detection.
-
-## Security & Assessment Skills
-Threat Hunting · Alert Triage · Risk Assessment · Log Analysis · Malware Analysis · Incident Response · Security Hardening · Asset Classification · SIEM · Network Analysis · OSINT
-
-## Programming & Tools
-Wireshark · Splunk · Wazuh · Suricata · jq · Ghidra · Process Monitor · Process Hacker · Autopsy · AccessData FTK Imager · Bash/Shell scripting · Docker · Volatility · SQL · Python · Java
-
-## Operating Systems  
-Windows, MAC, Linux
+Blue Team Operations - Reverse Engineering - Threat Hunting - Attack Analysis - Digital Forensics 
 
 ## Projects
-- [Malware Analysis Project](https://github.com/dhcybsec256/Malware-Analysis-Project) — Static & Dynamic Malware Analysis using Ghidra, Wireshark, Procmon and more
+- [Malware Analysis Project](https://github.com/dhcybsec256/Malware-Analysis-Project) — Reverse Engineering Malware by Static & Dynamic Analysis using Ghidra, Wireshark, Procmon and more
 - [Attack Analysis & Threat Hunting Lab](https://github.com/dhcybsec256/Attack-Analysis-Threat-Hunting-Lab) — Threat Hunting, MITRE ATT&CK mapping, IDS Rule Writing and Incident Response
 - [SOC Environment Log Monitoring & Threat Detection](https://github.com/dhcybsec256/SOC-Environment-Log-Monitoring-Threat-Detection) - (THM) Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
 - [3D VR Game Development](https://github.com/Mossata/Unpaid-Overtime-SSSS) - (original privated by RMIT) Team Leadership, Project Planning, Game Design 
