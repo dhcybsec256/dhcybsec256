@@ -1,4 +1,4 @@
-# Hi, I'm Derek Huang 
+# Intro
 
 Blue Team Operations - Reverse Engineering - Threat Hunting - Attack Analysis - Digital Forensics 
 
