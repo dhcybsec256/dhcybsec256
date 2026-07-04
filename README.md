@@ -8,7 +8,7 @@ Blue Team Operations - Reverse Engineering - Threat Hunting - Attack Analysis - 
 - [SOC Environment Log Monitoring & Threat Detection](https://github.com/dhcybsec256/SOC-Environment-Log-Monitoring-Threat-Detection) - (THM) Security Incident & Event Management (SIEM), Splunk, Triage and Incident Response
 - [Digital Forensics Case Report](https://github.com/dhcybsec256/Specter-Case-Report) - Crime-case forensics on seized hard-drive using Autopsy and others
 
-## Other Projects
+## Collab Projects
 - [3D VR Game Development(6 Members)](https://github.com/Mossata/Unpaid-Overtime-SSSS) - Design Team, Agile Software Development, Project Planning, Game Design 
 - [2D Game Development](link) - 
 
